@@ -50,6 +50,7 @@ No presento este ejercicio como una tienda en explotación ni como un encargo pa
 
 ## Documentación
 
+- [Prompt principal usado con Lovable](docs/prompt-principal-usado.md): PRD inicial completo, conservado tal como se envió.
 - [El proyecto explicado](docs/proyecto.md): objetivo, estructura y decisiones visibles de la experiencia.
 - [Recorrido de la demo](docs/recorrido.md): guía para explorar el proyecto paso a paso.
 - [Comprobaciones y límites](docs/verificacion.md): acciones revisadas, resultados observados y aspectos pendientes.
