@@ -14,10 +14,6 @@ Puedes seguir este recorrido sin crear una cuenta ni introducir datos personales
 
 Los importes anteriores corresponden a la revisión del 20 de octubre de 2026. Pueden cambiar si actualizo el catálogo.
 
-## Cómo lo explico en una entrevista
-
-«He creado Velora con Lovable como proyecto personal de portfolio. Es una tienda ficticia de sillas de oficina en la que se puede recorrer un catálogo, consultar fichas, elegir una variante y probar un carrito. Con ella muestro una experiencia web creada con asistencia de IA y explico qué interacciones están disponibles. No procesa pedidos ni pagos reales. En GitHub he organizado las capturas y la documentación para que el proyecto pueda revisarse con facilidad».
-
 ## Dónde consultar cada parte
 
 | Parte | Enlace |
