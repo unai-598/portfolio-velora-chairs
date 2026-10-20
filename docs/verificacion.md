@@ -4,7 +4,7 @@
 
 ## Alcance de esta revisión
 
-Documento una comprobación manual de la demo pública de Velora realizada el **20 de octubre de 2026**, en un navegador de escritorio. Las acciones se realizaron sobre la interfaz publicada. Este registro describe lo observado en esa revisión; no constituye una certificación del sitio ni una auditoría de su código.
+Documento una comprobación manual de la demo pública de Velora realizada el **20 de octubre de 2026**, en un navegador de escritorio. Revisé la interfaz publicada. Este registro describe lo observado en esa revisión; no constituye una certificación del sitio ni una auditoría de su código.
 
 ## Acciones y resultados observados
 
@@ -23,7 +23,7 @@ Documento una comprobación manual de la demo pública de Velora realizada el **
 | Idioma | En «Contacto», cambiar de ES a EN. | La navegación, los textos principales y las etiquetas del formulario pasan al inglés. |
 | Contacto | Leer el aviso junto al formulario. | Indica que es una demostración y que no se envían datos. No se enviaron datos personales para esta revisión. |
 
-Las operaciones del carrito se revisaron con un producto y dos cantidades. No se comprobó una compra real. El carrito quedó vacío al finalizar y el idioma volvió a español.
+Revisé las operaciones del carrito con un producto y dos cantidades. No realicé una compra real. Dejé el carrito vacío al finalizar y restablecí el idioma español.
 
 ## Evidencia visual
 
@@ -44,9 +44,9 @@ Las capturas corresponden a estados concretos de la demo. El registro anterior c
 
 ## Aspectos no verificados
 
-No se ha auditado el código, la seguridad, el almacenamiento del carrito, una base de datos ni una integración de pagos. Tampoco se ha realizado una revisión completa de traducciones, accesibilidad, rendimiento, compatibilidad entre navegadores o dispositivos móviles.
+No he auditado el código, la seguridad, el almacenamiento del carrito, una base de datos ni una integración de pagos. Tampoco he realizado una revisión completa de traducciones, accesibilidad, rendimiento, compatibilidad entre navegadores o dispositivos móviles.
 
-Los controles de precio, color y soporte lumbar se observaron en el catálogo, pero no se probaron todas sus combinaciones. El cambio de idioma se comprobó en la página de contacto; no implica una validación de todos los textos del sitio.
+Observé los controles de precio, color y soporte lumbar en el catálogo, pero no probé todas sus combinaciones. Comprobé el cambio de idioma en la página de contacto; no implica una validación de todos los textos del sitio.
 
 ## Cómo mantener este registro
 

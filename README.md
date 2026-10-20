@@ -1,6 +1,6 @@
 # Velora Chairs
 
-### Una tienda de sillas de oficina creada con Lovable
+**Una tienda de sillas de oficina creada con Lovable**
 
 Soy Unai. En este proyecto he desarrollado con Lovable una tienda ficticia de sillas de oficina. Presento una experiencia en la que se puede explorar un catálogo, consultar un producto, elegir una variante y probar un carrito de demostración.
 
@@ -12,7 +12,7 @@ Soy Unai. En este proyecto he desarrollado con Lovable una tienda ficticia de si
 
 ## El objetivo
 
-Quise representar el recorrido de una persona que busca una silla de oficina: descubrir las opciones, comparar sus características y preparar una selección. El resultado permite mostrar esa experiencia en el navegador, sin necesidad de instalar nada.
+Mi objetivo es representar el recorrido de una persona que busca una silla de oficina: descubrir las opciones, comparar sus características y preparar una selección. El resultado permite mostrar esa experiencia en el navegador, sin necesidad de instalar nada.
 
 ## Qué he construido
 
@@ -42,7 +42,7 @@ La muestra permite valorar cómo organizo una experiencia de catálogo, presento
 
 ## Qué funciona y qué está simulado
 
-Se ha comprobado el filtro de categoría, el cambio de vista de una galería, la selección de una variante, las operaciones del carrito y el cambio de idioma en la página de contacto. El detalle está en el [registro de comprobaciones](docs/verificacion.md).
+He comprobado el filtro de categoría, el cambio de vista de una galería, la selección de una variante, las operaciones del carrito y el cambio de idioma en la página de contacto. El detalle está en el [registro de comprobaciones](docs/verificacion.md).
 
 El carrito calcula importes de ejemplo. El formulario indica que no envía datos. La selección de color identifica la variante elegida; las imágenes muestran un acabado de muestra y no representan necesariamente cada color.
 
@@ -57,4 +57,3 @@ No presento este ejercicio como una tienda en explotación ni como un encargo pa
 Este repositorio contiene la presentación del caso, su documentación y capturas. La aplicación se consulta en la demo alojada en Lovable; su código fuente no está incluido en este repositorio.
 
 **Autor: Unai · Revisión de la demo: 20 de octubre de 2026.**
-

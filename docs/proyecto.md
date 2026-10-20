@@ -2,7 +2,7 @@
 
 [Volver a la presentación](../README.md) · [Abrir Velora](https://velora-chairs.lovable.app/)
 
-## Qué quise representar
+## Qué presento
 
 Con Velora he creado una muestra de tienda de sillas de oficina con Lovable. El objetivo es que una persona pueda entender la oferta, consultar las opciones de un producto y preparar una selección en un carrito de demostración.
 
@@ -24,7 +24,7 @@ El sitio también incorpora páginas de información de marca y contacto, ademá
 
 ## La presentación visual
 
-En el resultado utilizo una base clara, fotografías de producto y tonos verdes oscuros. La información se distribuye entre una zona visual y los datos de la silla. La navegación mantiene los accesos al catálogo, la marca, el contacto y el carrito.
+En el resultado utilizo una base clara, imágenes de producto y tonos verdes oscuros. La información se distribuye entre una zona visual y los datos de la silla. La navegación mantiene los accesos al catálogo, la marca, el contacto y el carrito.
 
 Estas decisiones pueden observarse en las [capturas del repositorio](../assets/) y en la demo. No afirmo que hayan mejorado ventas o conversión: no dispongo de mediciones comerciales ni de un estudio con usuarios.
 
@@ -32,7 +32,7 @@ Estas decisiones pueden observarse en las [capturas del repositorio](../assets/)
 
 Puedo mostrar el recorrido completo de una demo de tienda, explicar cómo he utilizado Lovable y diferenciar sus interacciones disponibles de los elementos simulados. El proyecto permite conversar sobre organización de contenidos, experiencia de catálogo y uso de IA para crear una aplicación web.
 
-No atribuyo a este repositorio programación manual, una arquitectura técnica auditada ni integraciones que no se hayan comprobado. Aquí documento el resultado publicado; no incluyo el código de la aplicación.
+Aquí documento el resultado publicado y el uso de Lovable. El código de la aplicación no está incluido en este repositorio; las funciones comprobadas se detallan en el [registro de revisión](verificacion.md).
 
 ## Qué ampliaría antes de un uso comercial
 
